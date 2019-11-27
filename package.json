@@ -1,6 +1,6 @@
 {
   "name": "@bfrow-tech/link",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "publishConfig": { 
     "registry": "https://npm.pkg.github.com/bfrow-tech" 
   },
