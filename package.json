@@ -1,6 +1,6 @@
 {
   "name": "@bfrow-tech/link",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "publishConfig": { 
     "registry": "https://npm.pkg.github.com/bfrow-tech" 
   },
@@ -13,7 +13,7 @@
   ],
   "description": "Link Tool for Editor.js",
   "license": "MIT",
-  "repository": "git://github.com/bfrow-tech/delimiter.git",
+  "repository": "git://github.com/bfrow-tech/link.git",
   "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack --mode production",
